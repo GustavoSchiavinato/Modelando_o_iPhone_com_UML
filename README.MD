@@ -22,4 +22,4 @@ Com base no vídeo de lançamento do iPhone de 2007 (link abaixo), você deve el
 
 ### Diagrama UML (Mermaid)
 
-![UML](https://github.com/GustavoSchiavinato/Modelando_o_iPhone_com_UML/docs/Modelagem_UML_iPhone.png)
+![UML](Modelagem_UML_iPhone.png)
